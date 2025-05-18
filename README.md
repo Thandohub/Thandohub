@@ -1,4 +1,4 @@
-👋 Hi, I’m Thando! I’m an aspiring Full Stack Developer currently re-immersing myself in coding after a break.  
+👋 Hi, I’m Thando! I’m aspiring software developer. 
 
 🔍 **About Me:**  
 - 🌱 I’m focused on learning by building real-world projects to strengthen my skills.  
